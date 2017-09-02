@@ -1,4 +1,4 @@
-#Completed Card Generator
+# Completed Card Generator
 Contains every card frame from Aister's generator. Now including 0☆ and Beast 5☆ frames, Beast class and no class. 
 
 ## Background
