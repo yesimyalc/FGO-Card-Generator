@@ -1,10 +1,12 @@
-Added 0☆ and Beast 5☆ frame, 0☆ rarity icon.
+#Completed Card Generator
+Contains every card frame from Aister's generator. Now including 0☆ and Beast 5☆ frames, Beast class and no class. 
 
-## Forked from Aister's FGO + Canvas project
+## Background
+Forked from Aister's FGO + Canvas project
 Several projects that experiment on HTML5 canvas
+An expansion of juncaixinchi's original concept of using canvas to generate FGO cards. 
 
-## Aister's Card generator
+Aister's generator can be found [here](https://aister.github.io/FGO/fgo.html)
+Original generator can be found [here](https://juncaixinchi.github.io/FGO/fgo.html)
 
-An expansion of juncaixinchi's original concept of using canvas to generate FGO cards. The generator itself can be found [here](https://aister.github.io/FGO/fgo.html)
-
-Original code can be found [here](https://github.com/juncaixinchi/FGO)
+Original source code can be found [here](https://github.com/juncaixinchi/FGO)
