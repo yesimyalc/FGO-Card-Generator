@@ -1,6 +1,6 @@
 Added 0☆ and Beast 5☆ frame, 0☆ rarity icon.
 
-# Forked from Aister's FGO + Canvas project
+## Forked from Aister's FGO + Canvas project
 Several projects that experiment on HTML5 canvas
 
 ## Aister's Card generator
