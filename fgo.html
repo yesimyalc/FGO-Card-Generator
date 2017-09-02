@@ -18,14 +18,14 @@
       padding-top: 10px;
       padding-bottom: 10px;
       width: 100%;
-      max-width: 500px;
+      max-width: 512px;
       text-align: center;
       margin: 0 auto;
     }
     #Canvas-container
     {
       position: relative;
-      max-width: 500px;
+      max-width: 512px;
       width: 100%;
       margin: 0 auto;
     }
@@ -205,8 +205,8 @@
         preLoadImg(img_frame.src);
         img_frame.onload = function()
         {
-          content.drawImage(img_hero,0,0,500,730);
-          content.drawImage(img_frame,0,0,500,850);
+          content.drawImage(img_hero,0,0,512,724);
+          content.drawImage(img_frame,0,0,512,875);
 
           const icon_pos = {
             "saber":     [ 213, 753 ],
@@ -239,8 +239,8 @@
         preLoadImg(img_frame.src);
         img_frame.onload = function()
         {
-          content.drawImage(img_hero,0,0,500,850);
-          content.drawImage(img_frame,0,0,500,850);
+          content.drawImage(img_hero,0,0,512,875);
+          content.drawImage(img_frame,0,0,512,875);
           put_text(canvas, content, Hero_name, Hero_class, true);
         }
       }
@@ -250,12 +250,12 @@
     }
     function resize(){
       width = document.body.clientWidth;
-      if(width <= 500)
+      if(width <= 512)
       {
         document.getElementById("pic_show").style.width = "100%";
       }
       else{
-        document.getElementById("pic_show").style.width = "500px";
+        document.getElementById("pic_show").style.width = "512px";
       }
     }
   </script>
@@ -322,7 +322,7 @@
     <br>
     <a href = "#Canvas-position"><button onclick = "get_pic('myCanvas')">Generate!</button></a>
     <br>
-    <p style = "font-size: 10pt">Tips: For best result, please use image size of 730 x 500！</p>
+    <p style = "font-size: 10pt">Tips: For best result, please use image size of 724 x 512！</p>
     <!--两个例子：
     <a href = "#Canvas-position"><button onclick = "get_zhou()">生成周天王！</button></a>
     <a href = "#Canvas-position"><button onclick = "get_lei()">生成蕾姆！</button></a> -->
@@ -330,7 +330,7 @@
   </div>
   <div id = "Canvas-container">
     <a name = "Canvas-position">
-      <canvas id = "myCanvas" width = "500" height = "850" style = "border:1px solid #c3c3c3" hidden = "hidden">
+      <canvas id = "myCanvas" width = "512" height = "875" style = "border:1px solid #c3c3c3" hidden = "hidden">
         Your browser doesn't support Canvas, please use a more modern browser!
       </canvas>
       <img id = "pic_show">
