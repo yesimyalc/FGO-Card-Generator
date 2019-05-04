@@ -1,4 +1,4 @@
-## [Completed Card Generator](https://meguerreroa.github.io/FGO/fgo.html)
+## [Completed Card Generator](https://meguerreroa.github.io/FGO-Card-Generator/fgo.html)
 Contains every card frame from Aister's generator. Now including 0☆ and Beast 5☆ frames, Beast class and no class. 
 
 ## Background
