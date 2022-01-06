@@ -1,5 +1,5 @@
 Contains every card frame from Aister's and meguerreroa's generator. 
-Planning to add all other cards by myself soon.
+Foreigner & Pretender added by yesimyalc
 
 ## Background
 Forked from meguerreroa's FGO-Card-Generator
