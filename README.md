@@ -1,4 +1,3 @@
-## [Completed Card Generator](https://meguerreroa.github.io/FGO-Card-Generator/fgo.html)
 Contains every card frame from Aister's and meguerreroa's generator. 
 Planning to add all other cards by myself soon.
 
