@@ -1,5 +1,6 @@
 ## [Completed Card Generator](https://yesimyalc.github.io/FGO-Card-Generator/fgo.html)
-Contains every card frame from Aister's and meguerrora's generator. Pretender and Foreigner classes are added by yesimyalc. 
+Contains every card frame from Aister's and meguerrora's generator. 
+Pretender and Foreigner classes are added by yesimyalc. 
 
 ## Background
 Forked from Aister's FGO + Canvas project
