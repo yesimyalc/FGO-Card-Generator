@@ -1,7 +1,9 @@
 ## [Completed Card Generator](https://meguerreroa.github.io/FGO-Card-Generator/fgo.html)
-Contains every card frame from Aister's generator. Now including 0☆ and Beast 5☆ frames, Beast class and no class. 
+Contains every card frame from Aister's and meguerreroa's generator. 
+Planning to add all other cards by myself soon.
 
 ## Background
+Forked from meguerreroa's FGO-Card-Generator
 Forked from Aister's FGO + Canvas project
 Several projects that experiment on HTML5 canvas which is an expansion of juncaixinchi's original concept of using canvas to generate FGO cards. 
 
